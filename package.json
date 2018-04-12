@@ -1,0 +1,29 @@
+{
+	"name": "vscode-theme-thegreyshadeslight",
+	"displayName": "The Grey Shades Theme",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "vsce",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"atom",
+		"theme",
+		"light",
+		"one light"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "The Grey Shades Light",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			}
+		]
+	}
+}
