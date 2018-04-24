@@ -1,24 +1,24 @@
 {
 	"name": "TheGreyShadesLight",
 	"colors": {
-		"editor.background": "#f9f9f9",
+		"editor.background": "#ffffff",
 		"editor.foreground": "#888D8F",
 		"editor.selectionBackground": "#E8EBF3",
 		"editor.selectionForeground": "#f4f4f4",
 		"editor.findMatchBackground": "#F0F2FA",
 		"editor.findMatchHighlightBackground": "#F8F8FA",
 		"editorCursor.background": "#4953FF",
-        "editorCursor.foreground": "#4953FF",
-		"activityBar.background": "#ffffff",
+		"editorCursor.foreground": "#4953FF",
+		"activityBar.background": "#f9f9f9",
 		"activityBar.foreground": "#121417",
 		"activityBarBadge.background": "#4953FF",
 		"activityBarBadge.foreground": "#FFFFFF",
 		"sideBarTitle.foreground": "#adadad",
-		"sideBar.background": "#FFFFFF",
+		"sideBar.background": "#f9f9f9",
 		"sideBar.foreground": "#818285",
-		"statusBar.background": "#FFFFFF",
+		"statusBar.background": "#f9f9f9",
 		"statusBar.foreground": "#424243",
-		"titleBar.activeBackground": "#FFFFFF"
+		"titleBar.activeBackground": "#f9f9f9"
 	},
 	"tokenColors": [{
 			"settings": {
